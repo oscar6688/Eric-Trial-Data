@@ -1,0 +1,13 @@
+irr/
+fert_sys_1/
+fert_sys_2/
+fert_sys_3/
+fert_sys_4/
+fert_sys_5/
+.DS_Store
+fert_man_file_sys1.csv
+fert_man_file_sys2.csv
+fert_man_file_sys3.csv
+fert_man_file_sys4.csv
+fert_man_file_sys5.csv
+irrigation.csv
